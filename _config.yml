@@ -9,7 +9,7 @@ exclude: [bin,README.md]
 
 timezone: UTC
 
-languages: ["en", "en", "de"]
+languages: ["zh_cn", "en", "de", "zh_cn"]
 
 description: global.website.description
 
