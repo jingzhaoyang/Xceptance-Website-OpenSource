@@ -78,7 +78,7 @@ navigation:
         Download: 下载
         LicensingAndPricing: 价格
         Company: 关于我们
-        Management: Management
+        # Management: Management
         Team: 团队
         References: 合作伙伴
         Press: Press
@@ -96,7 +96,7 @@ homepage:
             text: We Test Software.<br/>Because Quality Matters.
             btn: 了解更多
         dw_slide: Demandware Partner since 2005.
-        load_slide: XLT. The Tool to Make Automation an Engineering Habit.
+        load_slide: 公司介绍
 
     intro:
         headline: 以技术和服务赢得客户信赖
@@ -173,19 +173,19 @@ company:
         details: "At Xceptance, we believe that a <strong>positive and supportive atmosphere</strong> is key to being good at what we do. A flat hierarchy, fun at work, and spending time together outside the office make for an environment in which we feel our best, are at our most creative, and are engaged and committed to our work."
 
 ##################################
-    management:
-        title: Xceptance - The Management
-        description: All about us.
+    # management:
+    #     title: Xceptance - The Management
+    #     description: All about us.
 
-        quote: Testing is not about failing. It’s about finding your potentials for improvement.
-        intro:
-            headline: Management
-            details: "Our management knows quality assurance and e-commerce from the inside and out. They convey the message of quality first."
-        simone: "Simone is a founder of Xceptance. From 1998 until 2004, she was Quality Assurance Manager at Intershop Communications AG before she decided to start Xceptance. As our Quality Assurance Manager, she now is especially responsible for all quality assurance services we offer to Demandware, Inc. Other than that, she has a sixth sense and contributes to the team by coming up with great business ideas. Simone studied Computer Science at the University of Applied Sciences Schmalkalden."
-        roy: "Roy is a founder of Xceptance and has served as our Managing Director since 2004, thus establishing and fostering Xceptance’s business philosophy right from the start. From 1998 until 2004, he served as Corporate Counsel of Intershop Communications AG, a well-known e-commerce company headquartered in Jena, Germany. Roy studied law at Humboldt University Berlin. His long-term experience in leadership and his comprehensive knowledge of the e-commerce industry contribute to the steady and stable growth of Xceptance and make it a trustworthy business partner."
-        rene: "René is a founder of Xceptance and he adds the technical know-how of software quality assurance to our management board. He has served as Xceptance’s Managing Director since 2004 and plays a major role in shaping our company’s profile, including the continuous evaluation and development of our test tools and services. He has been serving as CEO of Xceptance, Inc. in Cambridge, MA, USA since 2006. Prior to founding Xceptance, René was the Technical Director of the quality assurance department of Intershop Communications AG, thus gaining first-hand experience in the fields of e-commerce and web-based software. René holds a Master’s degree in Computer Science from Brandenburg University of Technology."
-        ronny: "Ronny is a founder of Xceptance and has served as our Quality Assurance Manager since 2004. From 1998 until 2004, he was Quality Assurance Manager at Intershop Communications AG, where he met Simone, Roy, and René. Ronny holds a Master’s degree in Computer Science from Chemnitz University of Technology. Prior to helping start Xceptance, he was also a research associate at the department of Computer Science at Chemnitz University, acquiring vast and comprehensive technological knowledge and expertise."
-        sara: "Sara holds the position of Director, USA and joined Xceptance in 2008. She helped to establish Xceptance, Inc. in North America and shapes the image of Xceptance on the American market. She did her undergraduate work at Georgetown University (Washington, D.C.) and The Ohio State University (Columbus, Ohio), and graduated from OSU with a Bachelor’s degree in German, Chinese and International Business. After a Fulbright year in Germany, she started graduate school, completing a Master’s degree in German Literature at the University of Wisconsin-Madison."
+    #     quote: Testing is not about failing. It’s about finding your potentials for improvement.
+    #     intro:
+    #         headline: Management
+    #         details: "Our management knows quality assurance and e-commerce from the inside and out. They convey the message of quality first."
+    #     simone: "Simone is a founder of Xceptance. From 1998 until 2004, she was Quality Assurance Manager at Intershop Communications AG before she decided to start Xceptance. As our Quality Assurance Manager, she now is especially responsible for all quality assurance services we offer to Demandware, Inc. Other than that, she has a sixth sense and contributes to the team by coming up with great business ideas. Simone studied Computer Science at the University of Applied Sciences Schmalkalden."
+    #     roy: "Roy is a founder of Xceptance and has served as our Managing Director since 2004, thus establishing and fostering Xceptance’s business philosophy right from the start. From 1998 until 2004, he served as Corporate Counsel of Intershop Communications AG, a well-known e-commerce company headquartered in Jena, Germany. Roy studied law at Humboldt University Berlin. His long-term experience in leadership and his comprehensive knowledge of the e-commerce industry contribute to the steady and stable growth of Xceptance and make it a trustworthy business partner."
+    #     rene: "René is a founder of Xceptance and he adds the technical know-how of software quality assurance to our management board. He has served as Xceptance’s Managing Director since 2004 and plays a major role in shaping our company’s profile, including the continuous evaluation and development of our test tools and services. He has been serving as CEO of Xceptance, Inc. in Cambridge, MA, USA since 2006. Prior to founding Xceptance, René was the Technical Director of the quality assurance department of Intershop Communications AG, thus gaining first-hand experience in the fields of e-commerce and web-based software. René holds a Master’s degree in Computer Science from Brandenburg University of Technology."
+    #     ronny: "Ronny is a founder of Xceptance and has served as our Quality Assurance Manager since 2004. From 1998 until 2004, he was Quality Assurance Manager at Intershop Communications AG, where he met Simone, Roy, and René. Ronny holds a Master’s degree in Computer Science from Chemnitz University of Technology. Prior to helping start Xceptance, he was also a research associate at the department of Computer Science at Chemnitz University, acquiring vast and comprehensive technological knowledge and expertise."
+    #     sara: "Sara holds the position of Director, USA and joined Xceptance in 2008. She helped to establish Xceptance, Inc. in North America and shapes the image of Xceptance on the American market. She did her undergraduate work at Georgetown University (Washington, D.C.) and The Ohio State University (Columbus, Ohio), and graduated from OSU with a Bachelor’s degree in German, Chinese and International Business. After a Fulbright year in Germany, she started graduate school, completing a Master’s degree in German Literature at the University of Wisconsin-Madison."
 
 ##################################
     references:

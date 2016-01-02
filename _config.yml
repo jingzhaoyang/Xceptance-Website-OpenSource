@@ -1,7 +1,6 @@
 name: global.website.name
 highlighter: pygments
 url:
-    de: https://www.xceptance.com
     en: https://www.xceptance.com
 
 include: [.htaccess]
@@ -9,7 +8,7 @@ exclude: [bin,README.md]
 
 timezone: UTC
 
-languages: ["zh_cn", "en", "de", "zh_cn"]
+languages: ["zh_cn", "en", "zh_cn"]
 
 description: global.website.description
 
@@ -31,13 +30,6 @@ sitenavigation:
     secondarynav:
         - name: Services
         - name: Demandware
-  - name: XLT
-    secondarynav:
-        - name: XLT
-        - name: Features
-        - name: Licensing & Pricing
-        - name: Documentation
-        - name: Download
   - name: Company
     secondarynav:
         - name: Company
