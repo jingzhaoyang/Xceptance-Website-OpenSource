@@ -41,12 +41,12 @@ global:
 ########################################################################
 # 404
 404:
-    title: "对不起，没有找到你所点击的页面"
-    description: "此页面不存在"
+    title: "Page not found. Your pixels are on another canvas."
+    description: "Well, this is not really want you are looking for, is it?"
     
-    headline: "页面错误 404"
-    apology: "对不起，没有找到你所点击的页面，你可以返回查看其他页面"
-    startover: "返回主页，点击这里: <a href=\"//www.boyue.win/\">www.boyue.win</a>."
+    headline: "The Famous Number 404"
+    apology: "We are truly sorry, but what you have been looking for is not here... anymore... or was not here at all or maybe you just mistyped something. Anyways, please hop back to our main site and start your navigation from there."
+    startover: "Go here and find what you are looking for: <a href=\"//www.xceptance.com/\">www.xceptance.com</a>."
     
 ########################################################################
 # privacy message
@@ -99,22 +99,22 @@ homepage:
         load_slide: XLT. The Tool to Make Automation an Engineering Habit.
 
     intro:
-        headline: 以技术和服务赢得客户信赖
-        details: 我们致力于优秀的服务和精湛的技术为客户解决问题。
+        headline: Committed to Software Quality
+        details: We help our clients optimize their testing and enhance their final product.
 
     offer:
         manual:
             headline: 网络视频监控
-            details: 我们不仅可以安装和搭建监控系统，并且还可以将监控系统和业务平台对接。比如和公司内部的ERP系统对接，和公司视频会议系统对接等。
+            details: We test your product based on your individual requirements, with an ideal mix of manual and automated approaches.
         load:
             headline: 网络音视频电话
-            details: 我们有优秀的呼叫中心系统和网络电话系统，除此之外还有优秀的网络电话平台，可以通过互联网实现集团与分公司之间的音视频通话，以此节约电话费用和时间成本。
+            details: We simulate the traffic you expect on your platform and deliver detailed test reports. Find out how your site really performs.
         support:
-            headline: 公司系统集成
-            details: 我们有丰富的ERP系统平台搭建和维护经验，以及开发定制的CRM系统的实力。除此之外，还可以为集团公司做企业邮箱、企业云存储等系统。
+            headline: 公司组合和平台搭建
+            details: We love to share our knowledge and can help you establish or improve your own quality assurance processes. Let us inspire you to test better!
         product:
             headline: 软件开发
-            details: 企业网址开发、企业宣传APP开发、企业内部平台集成开发。
+            details: You’ll love functional testing with XLT because it takes Selenium style testing to the next level. XLT also covers all your web performance testing needs.
 
     welcome_teaser:
         headline: 欢迎访问我公司网站<br/>想了解更多内容
@@ -123,29 +123,29 @@ homepage:
 ########################################################################
 # Company pages
 company:
-    title: 洛阳博悦网络科技有限公司
+    title: Xceptance - Who we are
     description: 公司介绍
 
     intro:
         headline: 关于我们
-        description: "我们是一家年轻的公司，不仅公司年龄年轻，公司成员也都是80后和90后。我们曾经都在北上广漂白过，但终究"
+        description: "We are dedicated experts for software testing: together we comprise more than 200 years of software testing experience and we absolutely love what we do."
 
     facts:
-        headline: 公司信息
-        founded: 公司成立时间
+        headline: Quick Facts
+        founded: Founded
         size:
             key: 公司规模
             value: 30人以内
         headquarters: 
-            key: 公司总部
+            key: Headquarters
             value: "洛阳"
         dw:
-            key: 统计时间
-            value: '2016-01-01'
+            key: Demandware partner
+            value: Since 2005
         offices:
-            key: 公司办事处
-            value: "洛阳 & 郑州"
-        customers: 合作伙伴
+            key: Offices
+            value: "Jena (Germany) & Cambridge (USA)"
+        customers: Customers
 
     know:
         headline: We Know Testing
