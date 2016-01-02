@@ -41,12 +41,12 @@ global:
 ########################################################################
 # 404
 404:
-    title: "Page not found. Your pixels are on another canvas."
-    description: "Well, this is not really want you are looking for, is it?"
+    title: "对不起，没有找到你所点击的页面"
+    description: "此页面不存在"
     
-    headline: "The Famous Number 404"
-    apology: "We are truly sorry, but what you have been looking for is not here... anymore... or was not here at all or maybe you just mistyped something. Anyways, please hop back to our main site and start your navigation from there."
-    startover: "Go here and find what you are looking for: <a href=\"//www.xceptance.com/\">www.xceptance.com</a>."
+    headline: "页面错误 404"
+    apology: "对不起，没有找到你所点击的页面，你可以返回查看其他页面"
+    startover: "返回主页，点击这里: <a href=\"//www.boyue.win/\">www.boyue.win</a>."
     
 ########################################################################
 # privacy message
@@ -96,25 +96,25 @@ homepage:
             text: We Test Software.<br/>Because Quality Matters.
             btn: 了解更多
         dw_slide: Demandware Partner since 2005.
-        load_slide: XLT. The Tool to Make Automation an Engineering Habit.
+        load_slide: 公司介绍
 
     intro:
-        headline: Committed to Software Quality
-        details: We help our clients optimize their testing and enhance their final product.
-
+        headline: 以技术和服务赢得客户信赖
+        details: 我们致力于优秀的服务和精湛的技术为客户解决问题。
+        
     offer:
         manual:
             headline: 网络视频监控
-            details: We test your product based on your individual requirements, with an ideal mix of manual and automated approaches.
+            details: 我们不仅可以安装和搭建监控系统，并且还可以将监控系统和业务平台对接。比如和公司内部的ERP系统对接，和公司视频会议系统对接等。
         load:
             headline: 网络音视频电话
-            details: We simulate the traffic you expect on your platform and deliver detailed test reports. Find out how your site really performs.
+            details: 我们有优秀的呼叫中心系统和网络电话系统，除此之外还有优秀的网络电话平台，可以通过互联网实现集团与分公司之间的音视频通话，以此节约电话费用和时间成本。
         support:
-            headline: 公司组合和平台搭建
-            details: We love to share our knowledge and can help you establish or improve your own quality assurance processes. Let us inspire you to test better!
+            headline: 公司系统集成
+            details: 我们有丰富的ERP系统平台搭建和维护经验，以及开发定制的CRM系统的实力。除此之外，还可以为集团公司做企业邮箱、企业云存储等系统。
         product:
             headline: 软件开发
-            details: You’ll love functional testing with XLT because it takes Selenium style testing to the next level. XLT also covers all your web performance testing needs.
+            details: 企业网址开发、企业宣传APP开发、企业内部平台集成开发。
 
     welcome_teaser:
         headline: 欢迎访问我公司网站<br/>想了解更多内容
@@ -123,29 +123,29 @@ homepage:
 ########################################################################
 # Company pages
 company:
-    title: Xceptance - Who we are
+    title: 洛阳博悦网络科技有限公司
     description: 公司介绍
 
     intro:
         headline: 关于我们
-        description: "We are dedicated experts for software testing: together we comprise more than 200 years of software testing experience and we absolutely love what we do."
+        description: "我们是一家年轻的公司，不仅公司年龄年轻，公司成员也都是80后和90后。我们曾经都在北上广漂白过，但终究"
 
     facts:
-        headline: Quick Facts
-        founded: Founded
+        headline: 公司信息
+        founded: 公司成立时间
         size:
             key: 公司规模
             value: 30人以内
         headquarters: 
-            key: Headquarters
+            key: 公司总部
             value: "洛阳"
         dw:
-            key: Demandware partner
-            value: Since 2005
+            key: 统计时间
+            value: '2016-01-01'
         offices:
-            key: Offices
-            value: "Jena (Germany) & Cambridge (USA)"
-        customers: Customers
+            key: 公司办事处
+            value: "洛阳 & 郑州"
+        customers: 合作伙伴
 
     know:
         headline: We Know Testing
@@ -173,19 +173,19 @@ company:
         details: "At Xceptance, we believe that a <strong>positive and supportive atmosphere</strong> is key to being good at what we do. A flat hierarchy, fun at work, and spending time together outside the office make for an environment in which we feel our best, are at our most creative, and are engaged and committed to our work."
 
 ##################################
-    management:
-        title: Xceptance - The Management
-        description: All about us.
+    # management:
+    #     title: Xceptance - The Management
+    #     description: All about us.
 
-        quote: Testing is not about failing. It’s about finding your potentials for improvement.
-        intro:
-            headline: Management
-            details: "Our management knows quality assurance and e-commerce from the inside and out. They convey the message of quality first."
-        simone: "Simone is a founder of Xceptance. From 1998 until 2004, she was Quality Assurance Manager at Intershop Communications AG before she decided to start Xceptance. As our Quality Assurance Manager, she now is especially responsible for all quality assurance services we offer to Demandware, Inc. Other than that, she has a sixth sense and contributes to the team by coming up with great business ideas. Simone studied Computer Science at the University of Applied Sciences Schmalkalden."
-        roy: "Roy is a founder of Xceptance and has served as our Managing Director since 2004, thus establishing and fostering Xceptance’s business philosophy right from the start. From 1998 until 2004, he served as Corporate Counsel of Intershop Communications AG, a well-known e-commerce company headquartered in Jena, Germany. Roy studied law at Humboldt University Berlin. His long-term experience in leadership and his comprehensive knowledge of the e-commerce industry contribute to the steady and stable growth of Xceptance and make it a trustworthy business partner."
-        rene: "René is a founder of Xceptance and he adds the technical know-how of software quality assurance to our management board. He has served as Xceptance’s Managing Director since 2004 and plays a major role in shaping our company’s profile, including the continuous evaluation and development of our test tools and services. He has been serving as CEO of Xceptance, Inc. in Cambridge, MA, USA since 2006. Prior to founding Xceptance, René was the Technical Director of the quality assurance department of Intershop Communications AG, thus gaining first-hand experience in the fields of e-commerce and web-based software. René holds a Master’s degree in Computer Science from Brandenburg University of Technology."
-        ronny: "Ronny is a founder of Xceptance and has served as our Quality Assurance Manager since 2004. From 1998 until 2004, he was Quality Assurance Manager at Intershop Communications AG, where he met Simone, Roy, and René. Ronny holds a Master’s degree in Computer Science from Chemnitz University of Technology. Prior to helping start Xceptance, he was also a research associate at the department of Computer Science at Chemnitz University, acquiring vast and comprehensive technological knowledge and expertise."
-        sara: "Sara holds the position of Director, USA and joined Xceptance in 2008. She helped to establish Xceptance, Inc. in North America and shapes the image of Xceptance on the American market. She did her undergraduate work at Georgetown University (Washington, D.C.) and The Ohio State University (Columbus, Ohio), and graduated from OSU with a Bachelor’s degree in German, Chinese and International Business. After a Fulbright year in Germany, she started graduate school, completing a Master’s degree in German Literature at the University of Wisconsin-Madison."
+    #     quote: Testing is not about failing. It’s about finding your potentials for improvement.
+    #     intro:
+    #         headline: Management
+    #         details: "Our management knows quality assurance and e-commerce from the inside and out. They convey the message of quality first."
+    #     simone: "Simone is a founder of Xceptance. From 1998 until 2004, she was Quality Assurance Manager at Intershop Communications AG before she decided to start Xceptance. As our Quality Assurance Manager, she now is especially responsible for all quality assurance services we offer to Demandware, Inc. Other than that, she has a sixth sense and contributes to the team by coming up with great business ideas. Simone studied Computer Science at the University of Applied Sciences Schmalkalden."
+    #     roy: "Roy is a founder of Xceptance and has served as our Managing Director since 2004, thus establishing and fostering Xceptance’s business philosophy right from the start. From 1998 until 2004, he served as Corporate Counsel of Intershop Communications AG, a well-known e-commerce company headquartered in Jena, Germany. Roy studied law at Humboldt University Berlin. His long-term experience in leadership and his comprehensive knowledge of the e-commerce industry contribute to the steady and stable growth of Xceptance and make it a trustworthy business partner."
+    #     rene: "René is a founder of Xceptance and he adds the technical know-how of software quality assurance to our management board. He has served as Xceptance’s Managing Director since 2004 and plays a major role in shaping our company’s profile, including the continuous evaluation and development of our test tools and services. He has been serving as CEO of Xceptance, Inc. in Cambridge, MA, USA since 2006. Prior to founding Xceptance, René was the Technical Director of the quality assurance department of Intershop Communications AG, thus gaining first-hand experience in the fields of e-commerce and web-based software. René holds a Master’s degree in Computer Science from Brandenburg University of Technology."
+    #     ronny: "Ronny is a founder of Xceptance and has served as our Quality Assurance Manager since 2004. From 1998 until 2004, he was Quality Assurance Manager at Intershop Communications AG, where he met Simone, Roy, and René. Ronny holds a Master’s degree in Computer Science from Chemnitz University of Technology. Prior to helping start Xceptance, he was also a research associate at the department of Computer Science at Chemnitz University, acquiring vast and comprehensive technological knowledge and expertise."
+    #     sara: "Sara holds the position of Director, USA and joined Xceptance in 2008. She helped to establish Xceptance, Inc. in North America and shapes the image of Xceptance on the American market. She did her undergraduate work at Georgetown University (Washington, D.C.) and The Ohio State University (Columbus, Ohio), and graduated from OSU with a Bachelor’s degree in German, Chinese and International Business. After a Fulbright year in Germany, she started graduate school, completing a Master’s degree in German Literature at the University of Wisconsin-Madison."
 
 ##################################
     references:
@@ -508,12 +508,12 @@ news:
         headline: 访问我们的博客
         details: Find more technical news, links and information around test automation as well as general testing topics in our blog.
         btn: Start Here
-    latest: Latest News
+    latest: 最新动态
 
     archive:
-        title: News Archive
-        description: Overview of all News
-        headline: News Archive
+        title: 新闻列表
+        description: 查看全部新闻
+        headline: 新闻列表
 
 ########################################################################
 # XLT

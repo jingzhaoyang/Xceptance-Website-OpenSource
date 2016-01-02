@@ -53,8 +53,8 @@
                 {% else %}
                     {% comment %}## Might be external ##{% endcomment %}
                     {% if e.name  == ':External' %}
-                        <li><a href="{{e.url}}">{{e.title}}</a></li>
-                    {% else %}
+<!--                         <li><a href="{{e.url}}">{{e.title}}</a></li>
+ -->                    {% else %}
                         <li>{% include getPageLink.html name=e.name isMainNavigation=true active=false %}</li>
                     {% endif %}
                 {% endif %}
