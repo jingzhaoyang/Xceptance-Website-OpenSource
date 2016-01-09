@@ -14,14 +14,14 @@ permalink: /news/
 	<div class="row">
 		<div class="container">
 			<div class="col-sm-8">
-				<h1 class="news-headline">News</h1>				
+				<h1 class="news-headline">公司新闻</h1>				
 				<!-- the latest -->
-				{% for news in site.categories.news limit:1 %}
-				<div class="news-post">
+				{% for news in site.categories.news limit:1 %}				
+ 					<div class="news-post">
 					<h1>{% t news.title %}</h1>
 					<p class="meta">{% t news.when %}</p>
 					{{news.content}}
-				</div>	
+					</div>	
 				{% endfor %}	
 			</div>		
 
