@@ -6,17 +6,19 @@ url:
 include: [.htaccess]
 exclude: [bin,README.md]
 
-timezone: UTC
+timezone: Asia/Shanghai
 
 languages: ["zh_cn", "en", "zh_cn"]
 
 description: global.website.description
 
-excerpt_separator: N/A-------N/A... Workaround for https://github.com/mojombo/jekyll/issues/1401
+excerpt_separator: ""
 
+### 
+encoding: "utf-8"
 ### Disabled for now. Default is nice.
 # permalink: :categories/:year-:month-:day-:title.html
-
+# permalink: :year-:month-:day-:title.html
 # The navigation to include, everything here is meant to be
 # a key to find the correct page. The name and link titles are
 # taken from every page itself as well as the relation to its parent.
