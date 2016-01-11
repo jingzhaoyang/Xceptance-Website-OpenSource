@@ -16,6 +16,9 @@ excerpt_separator: ""
 
 ### 
 encoding: "utf-8"
+cdn_domain: https://dn-blahgeek-blog-mirror.qbox.me
+# cdn_img_suffix: ?imageView2/2/w/800
+
 ### Disabled for now. Default is nice.
 # permalink: :categories/:year-:month-:day-:title.html
 # permalink: :year-:month-:day-:title.html
