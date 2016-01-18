@@ -1,7 +1,8 @@
 name: global.website.name
 highlighter: pygments
 url:
-    en: https://www.xceptance.com
+    en: http://www.boyue.win
+    zh_ch: http://www.boyue.win
 
 include: [.htaccess]
 exclude: [bin,README.md]
@@ -16,7 +17,7 @@ excerpt_separator: ""
 
 ### 
 encoding: "utf-8"
-cdn_domain: http://7xpzl2.com1.z0.glb.clouddn.com
+# cdn_domain: http://7xpzl2.com1.z0.glb.clouddn.com
 # cdn_img_suffix: ?imageView2/2/w/800
 
 ### Disabled for now. Default is nice.
@@ -50,5 +51,5 @@ sitenavigation:
         - name: Privacy
   - name: :External
     title: Blog
-    url: https://blog.xceptance.com/
+    url: https://blog.boyue.win/
 
