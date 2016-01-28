@@ -1016,119 +1016,36 @@ xlt:
 
 ########################################################################
 # Posts
-# posts:
-#     news:
-#         1:
-#             title: Xceptance Sponsors FSU Summer Festival
-#             when: June 7, 2013
-#             excerpt: Xceptance is one of the main sponsors of the Friedrich-Schiller-University’s Summer Festival that will take place on June 28, 2013 in Jena.
-#         2:
-#             title: Xceptance Promotes Kulturarena 2013 Open-Air
-#             when: July 15, 2013
-#             excerpt: Since it has always been our intention to not only do business, but to also contribute to the local culture and arts, we are proud to announce that we are sponsoring the international Kulturarena Open-Air this year!
-#         3:
-#             title: Xceptance at Demandware XChange European Summit
-#             when: September 15, 2013
-#             excerpt: We will be coming together with Demandware’s European community to exchange ideas, solutions, and best practices for digital retail and everything that comes with it.
-#         4:
-#             title: Xceptance at Jena City Corporate Running Challenge
-#             when: May 17, 2013
-#             excerpt: We are in good shape and did a great job at the 3rd annual Jena City Corporate Running Challenge!
-#         5:
-#             title: Xceptance at 1st Thuringia Business Exchange for Commuters and Returnees on June 15, 2013
-#             when: May 16, 2013
-#             excerpt: We will have our own booth at the 1st Thuringia Business Exchange in Erfurt, a get together of Thuringian companies introducing themselves and their current job vacancies.
-#         6:
-#             title: Xceptance Supports New E-commerce B.A. Program Offered by the University of Applied Sciences Jena
-#             when: April 22, 2013
-#             excerpt: Together with other local companies and patrons, Xceptance helps funding the new e-commerce B.A. Program that will be offered by the University of Applied Sciences Jena as of fall semester 2013.
-#         7:
-#             title: Happy New Year!
-#             when: January 2, 2014
-#             excerpt: Happy New Year to all of us.
-#         8:
-#             title: Xceptance Releases XLT 4.3
-#             when: January 12, 2014
-#             excerpt: Xceptance released version 4.3 of its load testing and test automation product Xceptance LoadTest. It features a wide range of improvements and new functionality.
-#         9:
-#             title: Xceptance Contributes to 4th Coding Contest 2012 by Netresearch Leipzig
-#             when: October 5, 2012
-#             excerpt: IT talents can put their skills to the test at the Netresearch Leipzig Coding Contest from November 5 to 11, 2012.
-#         10:
-#             title: Xceptance Supports BarCamp Mitteldeutschland
-#             when: August 11, 2012
-#             excerpt: We are happy to announce that we are an official sponsor of the 4th BarCamp Mitteldeutschland held on October 13/14, 2012 in Jena
-#         11:
-#             title: Xceptance Donates Germany Scholarships to FSU Jena
-#             when: February 14, 2012
-#             excerpt: We want to invest into education and Jena’s future.
-#         12:
-#             title: "Xceptance Supports \"Rock against Racism\" Charity Concert"
-#             when: December 2, 2011
-#             excerpt: Please come out and make a stand against racism on December 2, 2011 in Jena!
-#         13:
-#             title: Xceptance supports CEOI 2014 in Jena
-#             when: May 19, 2014
-#             excerpt: Xceptance supports CEOI 2014 in Jena
-#         14:
-#             title: Xceptance at 4th Jena City Corporate Running Challenge on May 24, 2014
-#             when: May 21, 2014
-#             excerpt: Xceptance at 4th Jena City Corporate Running Challenge on May 24, 2014
-#         15:
-#             title: Xceptance enhances Jena office facility
-#             when: June 5, 2014
-#             excerpt: The Xceptance logo is present at the office building in Jena, Germany.
-#         16:
-#             title: Jena University Summerfestival 2014
-#             when: June 25, 2014
-#             excerpt: Xceptance is already for the second time one of the main sponsors of the Jena University Summerfestival.
-#         17:
-#             title: Xceptance Releases XLT 4.4
-#             when: July 31, 2014
-#             excerpt: Xceptance released version 4.4 of its load testing and test automation product Xceptance LoadTest. It features a wide range of improvements and new functionality.
-#         18:
-#             title: Meet us at the Demandware XChange‘14 European Summit on October 6-7, 2014 in Barcelona!
-#             when: September 22, 2014
-#             excerpt: As long-time Demandware partner, we are looking forward to attending this year‘s Demandware XChange European Summit on October 6-7 in Barcelona, Spain.
-#         19:
-#             title: Merry QA’ed Christmas and a Happy New Year!
-#             when: December 18, 2014
-#             excerpt: We wish you and your family happy holidays and health, happiness and success in the coming year.
-#         20:
-#             title: Xceptance Hosts 1st XLT Summit on January 20, 2015 in Jena
-#             when: January 2, 2015
-#             excerpt: We want to bring Xceptance and German XLT users even closer together and are looking forward to meeting you in Jena!
-#         21:
-#             title: Xceptance Main Sponsor of TEDxFSU Jena on February 10, 2015
-#             when: January 22, 2015
-#             excerpt: We believe in the importance of education and are happy to support the first official university-based TEDx event in Jena. 
-#         22:
-#             title: test
-#             when: Test
-#             excerpt: Test    
+posts:
+    news:
+        1:
+            title: 公司官网成立的第一篇文章
+            when: 2015/12/06
+            excerpt: 洛阳博悦网络科技有限公司官方网站于2015年12月正式上线，欢迎大家的浏览。如果发现页面有错误、或者无法打开页面过慢，可以通过网站所留的联系方式告知我们。
 
-#     jobs:
-#         1:
-#             title: Software Testing Intern
-#             when: "July 16, 2014"
-#             excerpt: We welcome anyone who wants to get experience in the field of software testing.
-#         2:
-#             title: QA Engineer, Web Application Load Testing
-#             when: "July 22, 2014"
-#             excerpt: We are looking for software engineers capable of load testing web applications.
-#         3:
-#             title: QA Engineer, Software Test Automation
-#             when: "July 25, 2014"
-#             excerpt: We are looking for software engineers experienced in the automation of software tests.
-#         4:
-#             title: QA Engineer, Functional Software Testing
-#             when: "July 25, 2014"
-#             excerpt: We are looking for QA engineers who want to do functional (manual) software testing.
-#         5:
-#             title: Software Engineer, Programming in Java
-#             when: "July 26, 2014"
-#             excerpt: We are looking for Java developers experienced in web application development.
-#         6:
-#             title: QA Engineer, Web Application Load Testing
-#             when: "July 26, 2014"
-#             excerpt: Our office in Cambridge, MA is looking for software engineers capable of load testing web applications.
+
+    jobs:
+        1:
+            title: Software Testing Intern
+            when: "July 16, 2014"
+            excerpt: We welcome anyone who wants to get experience in the field of software testing.
+        2:
+            title: QA Engineer, Web Application Load Testing
+            when: "July 22, 2014"
+            excerpt: We are looking for software engineers capable of load testing web applications.
+        3:
+            title: QA Engineer, Software Test Automation
+            when: "July 25, 2014"
+            excerpt: We are looking for software engineers experienced in the automation of software tests.
+        4:
+            title: QA Engineer, Functional Software Testing
+            when: "July 25, 2014"
+            excerpt: We are looking for QA engineers who want to do functional (manual) software testing.
+        5:
+            title: Software Engineer, Programming in Java
+            when: "July 26, 2014"
+            excerpt: We are looking for Java developers experienced in web application development.
+        6:
+            title: QA Engineer, Web Application Load Testing
+            when: "July 26, 2014"
+            excerpt: Our office in Cambridge, MA is looking for software engineers capable of load testing web applications.
