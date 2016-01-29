@@ -128,7 +128,7 @@ company:
 
     intro:
         headline: 关于我们
-        description: "我们是一家年轻的公司，不仅公司年龄年轻，公司成员也都是80后和90后。我们曾经都在北上广漂白过，但终究"
+        description: "我们是一家年轻的公司，不仅公司年龄年轻，公司成员也年轻.年轻就有无限可能。"
 
     facts:
         headline: 公司信息
@@ -148,14 +148,14 @@ company:
         customers: 合作伙伴
 
     know:
-        headline: We Know Testing
-        details: "Everyone of us has profound and hands-on experience in the domain of software quality assurance. We don’t like showing off and nobody’s perfect: to always be able to meet both our own standards and our clients’ needs, we constantly evaluate our own approach to software QA and strive for continuous improvement of our daily work."
+        headline: 我们能做什么？
+        details: "我们是一家技术公司，没用专职的销售。技术是我们唯一的优势，只要跟互联网沾边的都可以来电咨询。我们如果没有能力做，可以帮你介绍可靠的合作伙伴。而我们自己主打的服务(<a href='/zh_cn/services/'>点这里了解更多</a>)，我们都可以做。"
     flexible: 
-        headline: We Are Flexible and Efficient   
-        details: "It doesn't matter what you want us to do for you: we are always ready to help and strive to fulfill your individual needs. We participate in agile development projects as well as in enterprise  test projects. We are also flexible enough to serve you for just a couple of days or to engage in long-term projects. It's totally up to you!"
+        headline: 我们的工作效率怎么样？
+        details: "在软件开发中有一种术语叫做‘敏捷开发’，它是通过确定需求，然后不断的快速迭代来实现程序开发。而我们公司就这样运作，团队成员任何一人发现问题，都可以提出然后大家改正。我们没有复杂的流程和层级关系，我们是伙伴是团体，我们的目标是一致的。"
     trusted:
-        headline: We Are Trusted by Many
-        details: "We serve international companies from various business sectors, such as <strong>e-commerce</strong>, <strong>telecommunications</strong>, <strong>optical industries</strong>, and <strong>finance</strong>. Currently, our clients are located in the USA, Canada, Germany, Great Britain, Austria, and Switzerland."
+        headline: 我们是否值得信赖？
+        details: ""
     language: 
         headline: We Are Fluent in German and English 
         details: Everyone of us is capable of communicating in both German and English so that we can easily participate in international projects and work with customers from around the world. 
@@ -165,12 +165,9 @@ company:
     share:
         headline: We Share and Contribute to the Testing Community
         details: "It is very important to us to share our knowledge and skills, which is why we work hard on developing <strong>software testing tools</strong>. Xceptance LoadTest (XLT) was created to not only enhance our own testing experience but also to serve others of our profession. Open source projects help us greatly in our efforts and we try to give something in return, such as a <a href=\"/en/xlt/licensing-and-pricing.html\">community license</a> or our <strong>open source</strong> email service<a href=\"https://github.com/Xceptance/XCMailr\" target=\"_blank\"> XCMailr</a> for testing.</i>"
-    collaborate:
-        headline: We Collaborate
-        details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and constructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
     atmosphere:
-        headline: We Are a Team
-        details: "At Xceptance, we believe that a <strong>positive and supportive atmosphere</strong> is key to being good at what we do. A flat hierarchy, fun at work, and spending time together outside the office make for an environment in which we feel our best, are at our most creative, and are engaged and committed to our work."
+        headline: 我们的团队
+        details: ""
 
 ##################################
     # management:
