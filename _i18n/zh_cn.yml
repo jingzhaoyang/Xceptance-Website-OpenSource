@@ -123,7 +123,7 @@ homepage:
 ########################################################################
 # Company pages
 company:
-    title: 洛阳博悦网络科技有限公司
+    title: 公司介绍
     description: 公司介绍
 
     intro:
@@ -256,7 +256,7 @@ company:
 ########################################################################
 # Jobs
 jobs:
-    title: Xceptance – Jobs
+    title: 公司招聘
     description: We are looking for people
 
     intro:
@@ -295,7 +295,7 @@ jobs:
 # Services
 services:
     teaser: 周到的服务</br>才能赢得顾客的信任
-    title: 洛阳博悦网络科技有限公司
+    title: 服务项目
     description: What we do and what you can get
 
     intro:
