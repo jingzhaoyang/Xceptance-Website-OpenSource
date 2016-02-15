@@ -294,12 +294,12 @@ jobs:
 ########################################################################
 # Services
 services:
-    teaser: Inspecting, Observing,<br>Reporting.
-    title: Xceptance – Our Services
+    teaser: 周到的服务</br>才能赢得顾客的信任
+    title: 洛阳博悦网络科技有限公司
     description: What we do and what you can get
 
     intro:
-        headline: How May We Help You?
+        headline: 我们能帮你做什么?
         details: Whether you’re interested in manual testing, automated testing, load and performance testing, or test guidance – we’ve got them all covered.
 
     manual:
