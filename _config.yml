@@ -35,7 +35,7 @@ sitenavigation:
   - name: Services
     secondarynav:
         - name: Services
-        - name: Demandware
+        # - name: Demandware
   - name: Company
     secondarynav:
         - name: Company
