@@ -302,6 +302,11 @@ services:
         headline: 我们能帮你做什么?
         details: Whether you’re interested in manual testing, automated testing, load and performance testing, or test guidance – we’ve got them all covered.
 
+    monitor:
+        headline: 网络视频监控
+        teaser: 基于IP协议的视频监控开发、集成以及部署。
+        description: 
+
     manual:
         headline: Manual Testing
         teaser: Don’t let your end users test for you. Testing is more than just clicking around.
