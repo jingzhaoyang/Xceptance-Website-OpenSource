@@ -299,13 +299,13 @@ services:
     description: What we do and what you can get
 
     intro:
-        headline: 我们能帮你做什么?
-        details: Whether you’re interested in manual testing, automated testing, load and performance testing, or test guidance – we’ve got them all covered.
+        headline: '我们能帮你做什么?'
+        details: '网络和计算机相关的我们都可以做，但是我们更精通以下这些服务。如果在下列服务中没有您的需求，也可以来电咨询，我们无偿给你介绍专业同行。'
 
     monitor:
-        headline: 网络视频监控
-        teaser: 基于IP协议的视频监控开发、集成以及部署。
-        description: 
+        headline: '视频监控'
+        teaser: '基于IP协议的视频监控开发、集成以及部署。'
+        description: '我们不仅可以安装和搭建监控系统，并且还可以将监控系统和业务平台对接。比如和公司内部的ERP系统对接，和公司视频会议系统对接等。具体业务如下：'
 
     manual:
         headline: Manual Testing
@@ -412,7 +412,7 @@ contact:
     title: 联系方式
     description: 联系地址，电话等
 
-    quote: Quality assurance can make that little difference between good product and great product.
+    quote: '质量是维护顾客忠诚的最好保证。—杰克·韦尔奇'
     intro:
         headline: 联系信息
         details: 如果有想咨询的内容可以给我们发电子邮件或者电话。
