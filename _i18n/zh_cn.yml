@@ -114,7 +114,7 @@ homepage:
             details: 我们有丰富的ERP系统平台搭建和维护经验，以及开发定制的CRM系统的实力。除此之外，还可以为集团公司做企业邮箱、企业云存储等系统。
         product:
             headline: 软件开发
-            details: 企业网址开发、企业宣传APP开发、企业内部平台集成开发。
+            details: 企业网站开发、企业宣传APP开发、企业内部平台集成开发。
 
     welcome_teaser:
         headline: 欢迎访问我公司网站<br/>想了解更多内容
@@ -260,18 +260,18 @@ jobs:
     description: We are looking for people
 
     intro:
-        headline: We Are Hiring
-        details: Xceptance is constantly looking for talents with what we call the tester gene. Check our open positions and apply. We’re looking forward to meeting you!
+        headline: 期待加入我们
+        details: 博悦网络是一家年轻的公司，目前正处于招兵买马阶段。如果下面的职位有适合你的，可以直接邮件联系我们。
 
     positions:
         headline: Current Open Positions
 
     career:
-        headline: Career Development
-        details: Engage in interesting and challenging tasks that help you step forward and advance professionally.
+        headline: Python 开发工程师
+        details: 1年以上Python开发经验，学历不限，熟悉Django或者类似MVC框架。
     start-up:
-        headline: Start-Up Atmosphere
-        details: We foster an open business culture with flat hierarchies, strong communication, and quick decision-making processes.
+        headline: VoIP开发工程师
+        details: 3年以上C/C++开发经验，以前了解或者参与过VoIP类项目，熟悉SIP协议。
     balance:
         headline: Work-Life Balance
         details: We offer flexible work schedules and support you in staying healthy and happy with fruit, drinks, and nearby recreation opportunities.
