@@ -9,7 +9,7 @@ exclude: [bin,README.md]
 
 timezone: Asia/Shanghai
 
-languages: ["zh_cn", "en", "zh_cn"]
+languages: ["zh_cn", "zh_cn"]
 
 description: global.website.description
 
