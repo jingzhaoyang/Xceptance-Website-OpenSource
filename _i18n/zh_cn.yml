@@ -155,7 +155,7 @@ company:
         details: "在软件开发中有一种术语叫做‘敏捷开发’，它是通过确定需求，然后不断的快速迭代来实现程序开发。而我们公司就这样运作，团队成员任何一人发现问题，都可以提出然后大家改正。我们没有复杂的流程和层级关系，我们是伙伴是团体，我们的目标是一致的。"
     trusted:
         headline: 我们是否值得信赖？
-        details: ""
+        details: "我们有良好的从业资质、合理的计费方式、可靠的服务质量。"
     language: 
         headline: We Are Fluent in German and English 
         details: Everyone of us is capable of communicating in both German and English so that we can easily participate in international projects and work with customers from around the world. 
@@ -167,7 +167,7 @@ company:
         details: "It is very important to us to share our knowledge and skills, which is why we work hard on developing <strong>software testing tools</strong>. Xceptance LoadTest (XLT) was created to not only enhance our own testing experience but also to serve others of our profession. Open source projects help us greatly in our efforts and we try to give something in return, such as a <a href=\"/en/xlt/licensing-and-pricing.html\">community license</a> or our <strong>open source</strong> email service<a href=\"https://github.com/Xceptance/XCMailr\" target=\"_blank\"> XCMailr</a> for testing.</i>"
     atmosphere:
         headline: 我们的团队
-        details: ""
+        details: "有5年以上从业经验的程序员、网络工程师、平面设计师。"
 
 ##################################
     # management:
