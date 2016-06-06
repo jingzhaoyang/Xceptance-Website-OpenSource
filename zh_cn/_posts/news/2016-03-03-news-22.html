@@ -4,11 +4,12 @@ title: posts.news.22.title
 when: posts.news.22.when
 categories: news
 excerpt: posts.news.22.excerpt
+description: posts.news.22.description
 ---
     <p>在对比两种电话交换系统之前，我们先简单介绍下两种电话系统是如何实现分机的。</p>
     <p> 传统电话交换系统，是利用电话交换机来实现分机功能。电话交换机上有若干个FXS口和FXO口，FXO口接PSPN端的电话线，FXS口接内部分机。正个呼叫系统的语音交换都是有电话交换机完成的；网络电话交换机是通过一个信令网关设备将PSTN端的模拟信号转换为数字的SIP信号，然后送到FreeSWITCH的软交换上。再利用SIP软电话软件或者SIP网络话机来注册到FreeSWITCH上面。下面我们来对比下这两种系统的优缺点：</p>
     <p class="lead">传统电话系统</p>
-    <p>优点</p> 
+    <p>优点</p>
     <ul>
         <li>技术简单，后期维护不需要专业知识，只要调换线路即可。</li>
         <li>可靠性高，只要线路连通即可。</li>

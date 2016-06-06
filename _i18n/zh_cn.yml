@@ -25,7 +25,7 @@
 # Global stuff such as buttons
 global:
     website:
-        name: 洛阳博悦网络科技有限公司 
+        name: 洛阳博悦网络科技有限公司
         description: 视频监控SIP话机语音网络软件开发APP开发洛阳
     link:
         learnmore: 了解更多
@@ -43,18 +43,18 @@ global:
 404:
     title: "对不起，没有找到你所点击的页面"
     description: "此页面不存在"
-    
+
     headline: "页面错误 404"
     apology: "对不起，没有找到你所点击的页面，你可以返回查看其他页面"
     startover: "返回主页，点击这里: <a href=\"//www.boyue.win/\">www.boyue.win</a>."
-    
+
 ########################################################################
 # privacy message
 message:
     cookies: We use cookies. For more information please read <a href="/en/contact/privacy.html">our privacy section</a>.
     tracking: We also use analytics. By clicking <em>Opt-Out</em>, we will place a non-personalized cookie on your machine that indicates that you don‘t wish to be tracked.
-    
-    btn: 
+
+    btn:
         opt-out: Opt-Out
         understand: I understand
 
@@ -89,10 +89,10 @@ navigation:
 # The homepage
 homepage:
     title: 洛阳博悦网络科技有限公司
-    description: 视频监控SIP话机语音网络软件开发APP开发洛阳
+    description: 视频监控|SIP话机|APP开发|洛阳|网络电话|呼叫中心|郑州
 
     carousel:
-        service_slide: 
+        service_slide:
             text: 以人为本<br/>协同创新
             btn: 了解更多
         dw_slide: 以科技引领未来
@@ -119,12 +119,12 @@ homepage:
     welcome_teaser:
         headline: 欢迎访问我公司网站<br/>想了解更多内容
         action_button: 点击这里
-        
+
 ########################################################################
 # Company pages
 company:
     title: 公司介绍
-    description: 公司介绍
+    description: 视频监控|SIP话机|APP开发|洛阳|网络电话|呼叫中心|郑州
 
     intro:
         headline: 关于我们
@@ -136,7 +136,7 @@ company:
         size:
             key: 公司规模
             value: 30人以内
-        headquarters: 
+        headquarters:
             key: 公司总部
             value: "洛阳"
         dw:
@@ -150,15 +150,15 @@ company:
     know:
         headline: 我们能做什么？
         details: "我们是一家技术公司，没用专职的销售。技术是我们唯一的优势，只要跟互联网沾边的都可以来电咨询。我们如果没有能力做，可以帮你介绍可靠的合作伙伴。而我们自己主打的服务(<a href='/zh_cn/services/'>点这里了解更多</a>)，我们都可以做。"
-    flexible: 
+    flexible:
         headline: 我们的工作效率怎么样？
         details: "在软件开发中有一种术语叫做‘敏捷开发’，它是通过确定需求，然后不断的快速迭代来实现程序开发。而我们公司就这样运作，团队成员任何一人发现问题，都可以提出然后大家改正。我们没有复杂的流程和层级关系，我们是伙伴是团体，我们的目标是一致的。"
     trusted:
         headline: 我们是否值得信赖？
         details: "我们有良好的从业资质、合理的计费方式、可靠的服务质量。"
-    language: 
-        headline: We Are Fluent in German and English 
-        details: Everyone of us is capable of communicating in both German and English so that we can easily participate in international projects and work with customers from around the world. 
+    language:
+        headline: We Are Fluent in German and English
+        details: Everyone of us is capable of communicating in both German and English so that we can easily participate in international projects and work with customers from around the world.
     collaborate:
         headline: We Collaborate
         details: We are not a testing squad made up of pedantic nit-pickers who are out to denigrate others’ work. Rather, our goal is to be a reliable, trusted <strong>partner</strong>. To that end, we foster a relationship with our clients that is based on respectful communication and consructive cooperation, and we always keep their needs front and center. We feel comfortable behind the scenes and are satisfied when we can accompany our clients on their road to success.
@@ -257,7 +257,7 @@ company:
 # Jobs
 jobs:
     title: 公司招聘
-    description: We are looking for people
+    description: 视频监控|SIP话机|APP开发|洛阳|网络电话|呼叫中心|郑州
 
     intro:
         headline: 期待加入我们
@@ -296,7 +296,7 @@ jobs:
 services:
     teaser: 周到的服务</br>才能赢得顾客的信任
     title: 服务项目
-    description: What we do and what you can get
+    description: 视频监控|SIP话机|APP开发|洛阳|网络电话|呼叫中心|郑州
 
     intro:
         headline: '我们能帮你做什么?'
@@ -338,13 +338,13 @@ services:
         headline: Test Guidance &amp; Support
         teaser: Let us support your test organization. Benefit from our knowledge.
         description: We offer customized test support services tailored to fit your specific needs. Interested in professional advice on test management and test design? Thinking about workshops on testing for your employees? Establishing or extending your own internal quality assurance organization? We would love to help you.
-        
+
 ##################################
     dw:
         teaser: "10 Years of Quality Assurance Support for Demandware."
         title: Xceptance – Demandware Partner
         description: We are Demandware partner
-        
+
         table:
             headline: E-Commerce Testing
             load:
@@ -365,7 +365,7 @@ services:
 
         functional:
             headline: Functional Testing
-            teaser: "We ensure that your implementation meets today‘s high customer expectations. We test:" 
+            teaser: "We ensure that your implementation meets today‘s high customer expectations. We test:"
             list:
                 li1: All storefront functionalities
                 li2: Browser and mobile device compatibility
@@ -392,7 +392,7 @@ services:
 
         automate:
             headline: Test Automation
-            teaser: Let us automate your testing to give you a solid quality baseline, speed up your deployment process, and lower business risk. 
+            teaser: Let us automate your testing to give you a solid quality baseline, speed up your deployment process, and lower business risk.
             list:
                 li1: Out-of-the-box SiteGenesis test cases to cover the basics
                 li2: Customized test cases to address the most important paths for your specific site
@@ -405,12 +405,12 @@ services:
                 li1: Code audits and reviews
                 li2: Set-up of your site following proven security standards
                 li3: Review of planned changes to avoid introducing security risks
-                
+
 ########################################################################
 # Contacts
 contact:
     title: 联系方式
-    description: 联系地址，电话等
+    description: 视频监控|SIP话机|APP开发|洛阳|网络电话|呼叫中心|郑州
 
     quote: '质量是维护顾客忠诚的最好保证。—杰克·韦尔奇'
     intro:
@@ -484,25 +484,25 @@ contact:
             details: "<p>If we decide to change our privacy policy, we will update the Privacy Policy modification date below.<br>This policy was last modified on July 31, 2014.</p>"
         sites:
             headline: Web Sites
-            details: "<p>Xceptance owns, maintains, and contributes at: 
-                <a href=\"http://www.xceptance.de/\">www.xceptance.de</a>, 
-                <a href=\"https://www.xceptance.com/\">www.xceptance.com</a>, 
-                <a href=\"http://www.xceptance-loadtest.de/\">www.xceptance-loadtest.de</a>, 
-                <a href=\"http://www.xceptance-loadtest.com/\">www.xceptance-loadtest.com</a>,                
-                <a href=\"https://blog.xceptance.de/\">blog.xceptance.de</a>, 
-                <a href=\"https://twitter.com/Xceptance\">Xceptance Twitter</a>, 
+            details: "<p>Xceptance owns, maintains, and contributes at:
+                <a href=\"http://www.xceptance.de/\">www.xceptance.de</a>,
+                <a href=\"https://www.xceptance.com/\">www.xceptance.com</a>,
+                <a href=\"http://www.xceptance-loadtest.de/\">www.xceptance-loadtest.de</a>,
+                <a href=\"http://www.xceptance-loadtest.com/\">www.xceptance-loadtest.com</a>,
+                <a href=\"https://blog.xceptance.de/\">blog.xceptance.de</a>,
+                <a href=\"https://twitter.com/Xceptance\">Xceptance Twitter</a>,
                 <a href=\"https://www.xing.com/companies/xceptancesoftwaretechnologiesgmbh\">Xceptance on Xing</a>,
                 <a href=\"https://www.linkedin.com/company/xceptance\">Xceptance on LinkedIn</a>,
                 <a href=\"https://github.com/Xceptance/\">Xceptance on GitHub</a>,
-                <a href=\"https://plus.google.com/+Xceptance/posts\">Xceptance on Google+</a>, 
-                <a href=\"https://lab.xceptance.de/xltportal/\">XLT Self Service Center</a>, and all other content published on 
+                <a href=\"https://plus.google.com/+Xceptance/posts\">Xceptance on Google+</a>,
+                <a href=\"https://lab.xceptance.de/xltportal/\">XLT Self Service Center</a>, and all other content published on
                 <a href=\"https://lab.xceptance.de/\">lab.xceptance.de</a>, such as releases and documentation.</p>"
 
 ########################################################################
 # News
 news:
     title: 公司动态
-    description: 公司最新动态消息
+    description: 视频监控|SIP话机|APP开发|洛阳|网络电话|呼叫中心|郑州
     previous:
         headline: 之前的消息
         all: 全部消息
@@ -535,7 +535,7 @@ xlt:
     intro:
         headline: Xceptance LoadTest
         details: The Test Automation and Load Test Tool for Software Development
-        
+
     testautomation:
         headline: Test Automation
         lead: "Familiar with Selenium? You will love functional testing with XLT! We extended the concept with test data management, modules, variables, and macro functionality."
@@ -551,21 +551,21 @@ xlt:
 	                <li><strong>Test data sets</strong> to run</li>
 	                <li><strong>No-programming configuration</strong> of WebDrivers to simplify development</li>"
         text2: XLT is always free for functional testing. And that includes all updates.
-        
+
     loadtesting:
         headline: Load Testing
         lead: Performance is key for web applications, so you need a tool that realistically tests performance. You want to compare test runs, have instant, meaningful reports and access to raw data for even more analysis? That is XLT!
         text1: "<p>
-                XLT offers flexible and realistic testing of a web application's performance under load. Several different ways of composing tests allow you to choose the best way to complete a given task. 'Record &amp; Replay' mainly suits simple scenarios and basic URLs. But the power comes with Java as the scripting language, because it lets you write realistic, flexible, and data-independent scenarios. 
-               </p>  
+                XLT offers flexible and realistic testing of a web application's performance under load. Several different ways of composing tests allow you to choose the best way to complete a given task. 'Record &amp; Replay' mainly suits simple scenarios and basic URLs. But the power comes with Java as the scripting language, because it lets you write realistic, flexible, and data-independent scenarios.
+               </p>
 
                 <p>
-                    You can deploy XLT to any number of machines, with any number of test scenarios, and any number of load profile setups. The rich reports with the opportunity to time-slice them and to group requests will highlight problems in an instant. 
+                    You can deploy XLT to any number of machines, with any number of test scenarios, and any number of load profile setups. The rich reports with the opportunity to time-slice them and to group requests will highlight problems in an instant.
                 </p>
                 <p>
                     The result browser provides instant feedback on the test scenario while designing it. When load testing, the result browser will give you the information you need to diagnose a problem in detail.
                 </p>"
-                
+
         features:
             headline: Features and Functionality in a Nutshell
             details: <li><strong>Realistic load profiles</strong>, like arrival rate and user rate. Combinable with ramp-up time and initial delays</li>
@@ -580,10 +580,10 @@ xlt:
                     <li><strong>On-failure reporting</strong> captures all available data for a post-mortem analysis.</li>
                     <li>Get <strong>full reports</strong> at any time during test execution.</li>
                     <li><strong>External data</strong> can be captured and added to the reports.</li>
-            
+
         text2: Updates are always free and we do not charge for seats. You just pay for the users you need.
- 
-        
+
+
 ##################################
     documentation:
         title: Xceptance - XLT Documentation
@@ -599,7 +599,7 @@ xlt:
             docu: API Documentation
             release: Release Notes
             glossary: Glossary
-            faq: FAQ        
+            faq: FAQ
         mailinglist:
             headline: Mailing List
             text: Make sure you subscribe to our low-volume XLT release and news mailing list. Never miss an update again.
@@ -632,19 +632,19 @@ xlt:
     features:
         title: Xceptance - XLT Features
         description: The most flexible load and performance testing tool for Engineering.
-        
+
         intro:
             headline: Features
-            details: XLT is the product of all our long-term experience in test automation and performance testing. It also makes use of well-known technologies such as WebDriver, Apache HttpClient, and HtmlUnit. 
-            
+            details: XLT is the product of all our long-term experience in test automation and performance testing. It also makes use of well-known technologies such as WebDriver, Apache HttpClient, and HtmlUnit.
+
         technologies:
             headline: Known Technologies
             lead: "XLT utilizes what you already know: Java, JUnit4, Selenium WebDriver. Absolutely platform-independent."
             details:
-                lead: Because it takes time to learn new things and because you have established tools and processes, we 
+                lead: Because it takes time to learn new things and because you have established tools and processes, we
                     built XLT on well-known and tested foundations.
-                text: "<p>All this gives you the tools to get the most out of XLT. It integrates well, you can extend it well, and you won't have a hard time mastering it.</p>  
-                
+                text: "<p>All this gives you the tools to get the most out of XLT. It integrates well, you can extend it well, and you won't have a hard time mastering it.</p>
+
                 <ul>
                     <li><strong>Java</strong> is the scripting language when scripting is required. Use your favourite IDE, profilers, and debuggers.</li>
                     <li><strong>JUnit</strong> allows easy integration into test automation processes.</li>
@@ -655,11 +655,11 @@ xlt:
                     <li>The <strong>command line</strong> helps you automate everything quickly.</li>
                     <li><strong>WebDriver</strong> is used for functional testing as well as client-performance testing.</li>
                 </ul>
-                
+
                 <p>
                     And last but not least, XLT is platform-independent. Write on Windows, run on Linux. Compose on Mac, deploy on Windows. The possibilities are endless.
                 </p>"
-                
+
         ui:
             headline: Intuitive UI
             lead: The Script Developer is your intuitive UI for creating and maintaining functional tests. Use our open file format or export to Java.
@@ -676,10 +676,10 @@ xlt:
                                 <li>Extract <strong>reusable modules</strong>.</li>
                                 <li>Manage global and local <strong>test data</strong>.</li>
                                 <li>Execute <strong>batch tests</strong>.</li>"
-                    download: 
+                    download:
                         headline: Free Download
                         text: You can download the XLT Script Developer independently of the full Xceptance LoadTest package. That enables you to design and run tests in Firefox. <strong>It‘s free and updates come automatically</strong>.
-            
+
         deployment:
             headline: Deployment &amp; Cloud
             lead: XLT is easy to install and start, no OS dependencies whatsoever. Ready-to-use Amazon-EC2 images are available.
@@ -688,12 +688,12 @@ xlt:
                 text: "<p>
                     You can deploy XLT to any cloud provider and use any OS that has support for the Oracle Java 7 runtime. We strongly recommend Unix server environments for running large tests.
                 </p>
-                
+
                 <p>
                     XLT runs HTTPS-based communication. You can use proxies, authentication, and your proven tools to deploy and run XLT. Our goal was to keep it as simple as
                     possible, to make it as flexible as possible.
                 </p>"
-            
+
         reporting:
             headline: Awesome Reporting
             lead: Out-of-the-box reporting that is just right. No configuration work, all numbers at a glance. Comparison and trend reporting included.
@@ -715,10 +715,10 @@ xlt:
                     comparisonreports:
                         headline: Comparison Reports
                         text: "<p>
-                                    <a href=\"/demo-reports/comparison-report/\" target=\"_blank\">View here. </a>If you run a test again and you want to know if the later round was in fact better, you can generate a comparison report. 
+                                    <a href=\"/demo-reports/comparison-report/\" target=\"_blank\">View here. </a>If you run a test again and you want to know if the later round was in fact better, you can generate a comparison report.
                                 </p>
                                 <p>
-                                    Color codes and percentages help you quickly determine what changed between the test runs. 
+                                    Color codes and percentages help you quickly determine what changed between the test runs.
                                 </p>"
                         link:
                             alt: Comparison Report Example Table
@@ -734,7 +734,7 @@ xlt:
                         link:
                             alt: Example Trend Chart
                             title: Trend Performance Over Different Runs
-            
+
         adjustable:
             headline: Easily Adjustable
             lead: Add new data sources, modify the report content and layout, build powerful test suites as frameworks for even more testing.
@@ -750,21 +750,21 @@ xlt:
                             During a load test, XLT logs a large amount of data relevant to the test run. Nevertheless, sometimes it comes in handy to log additional information about the system under test. For this purpose, XLT provides custom values.
                         </p>
                         <p>
-                            The XLT report generator lets you include external data files in the report. This can be used if it’s impossible to directly access the external data source during the load test runtime.    
+                            The XLT report generator lets you include external data files in the report. This can be used if it’s impossible to directly access the external data source during the load test runtime.
                         </p>"
 
                 java:
                     headline: Use Java
                     text: <p>If there is anything that is not part of XLT, you can use Java to make it happen. Of course there are limits, because you can influence the measurements or limit the scaling, but with that in mind, a lot of things are possible.</p>
-                
-                        
+
+
         automation:
             headline: Made for Automation
             lead: Java as script language, open data formats, command lines, JUnit test principle, WebDriver support, and much more.
             details:
                 lead: XLT is made to be integrated into all kinds of automation processes. No matter if it‘s just a shell script or a full build process.
                 text: <p>We built XLT in a way that perfectly gets along with your preferred IDE, the command line, build processes, or just with a little bit of shell scripting. Engineers need things to work smoothly and quickly. We have that in mind.</p>
-            
+
         profiles:
             headline: Load Profiles
             lead: Arrival rate or steady user rate, ramp-ups, and flexible profiles over the course of a test run. Realistic or predictable, your choice.
@@ -777,23 +777,23 @@ xlt:
                     <li><strong>Ramp-up</strong> for gradually increasing traffic.</li>
                     <li><strong>Free configuration</strong> to compile challenging tests.</li>
                 </ul>
-                
+
                 <h3>Freely Configurable</h3>
                 <p>
                     Do you need to have a test where, after a slow ramp-up of low traffic, the load jumps within a minute to peak traffic, stays on that level for 10 minutes to then come back in waves? Well, XLT lets you do so. No limits. It works for arrival rate-based tests as well as for user-based tests.
                 </p>
-                
+
                 <p>
                     <img src=\"/images/xlt/free-load-profile.png\" class=\"img-responsive\" alt=\"Example View of a Load Profile\" title=\"Wave Pattern of a Load Profile\" />
                 </p>"
-            
+
         scenarios:
             headline: User Scenarios
             lead: Unlimited number of user scenarios that can be part of a test. Each scenario can have a different configuration or load profile.
             details:
                 lead: Reality is versatile and your test should reflect that. You can set up as many different scenarios as you need and run them together.
                 text: <p>Each scenario can be everything from a single pageview to a long-running call center operation. You can give each scenario an individual configuration that includes the load profile. The start of scenarios can be delayed in relation to other scenarios if needed.</p>
-            
+
         resultbrowser:
             headline: See Everything
             lead: The result browser precisely shows you what happens in a scenario. It visualizes any failure situation for a post-mortem analysis as well.
@@ -808,7 +808,7 @@ xlt:
                                     During script development, the result browser shows you all details about your recently executed script, so you can make sure that you covered everything and that the requests match the real traffic.
                                 </p>
                                 <p>
-                                    When executing WebDriver tests, the right side displays the web page as a screenshot. When 
+                                    When executing WebDriver tests, the right side displays the web page as a screenshot. When
                                     executing with XLT's built-in HtmlUnit, the right side is an estimated rendering of the downloaded data.
                                 </p>"
                     block2:
@@ -816,7 +816,7 @@ xlt:
                             alt: Details View of the Result Browser
                             title: Detailed Information About Application Errors
                         text: "<p>
-                                    Imagine a long-running test and you see three errors during the execution but thousands of transactions went just fine. XLT provides deep insights into the moments when the 
+                                    Imagine a long-running test and you see three errors during the execution but thousands of transactions went just fine. XLT provides deep insights into the moments when the
                                     application misbehaves.
                                 </p>
                                 <p>
@@ -847,17 +847,17 @@ xlt:
                         <p>
                             Preconfigured Amazon Web Service Images (AMIs) get you started quickly on Amazon EC2. Just start it and you are good to go.
                         </p>"
-            
-        configurable: 
+
+        configurable:
             headline: Configurable
             lead: Set timeouts, keep-alive, compression, image loading, permitted hosts, thinktimes, error handling, and much more.
             details:
                 lead: Many parameters can be adjusted to match the behavior to your testing needs.
                 text: "<p>
-                            XLT offers a richt set of options to modify the behavior so that all kinds of different 
+                            XLT offers a richt set of options to modify the behavior so that all kinds of different
                             configurations can be tested. For example:
                         </p>
-                        
+
                         <ul>
                             <li><strong>Keep-alive</strong></li>
                             <li><strong>Timeouts</strong></li>
@@ -870,7 +870,7 @@ xlt:
                             <li><strong>Permitted hosts</strong></li>
                             <li><strong>User agent</strong></li>
                         </ul>
-                        
+
                         <p>
                             Many parameters can be also influenced programmatically when XLT does not provide a property for it.
                         </p>"
@@ -880,13 +880,13 @@ xlt:
             details:
                 lead: XLT uses open formats for results and reports. Perfectly suited for storing them anywhere.
                 text: "<p>
-                       Result data and reports are separated so you can easily make a decision if you want to store a lot of data or just the final outcome. Stored result data can be turned into reports anytime again on any machine. 
+                       Result data and reports are separated so you can easily make a decision if you want to store a lot of data or just the final outcome. Stored result data can be turned into reports anytime again on any machine.
                     </p>
                     <p>
-                        Reports and results store your full test configuration. Repeating the exact same run days or weeks later is a matter of seconds. 
+                        Reports and results store your full test configuration. Repeating the exact same run days or weeks later is a matter of seconds.
                     </p>"
-            
-        shareable: 
+
+        shareable:
             headline: Shareable
             lead: Test suites and configurations can be shared easily. Reports are plain HTML and perfect for quick sharing.
             details:
@@ -1024,10 +1024,12 @@ posts:
             title: 公司官网成立的第一篇文章
             when: 2015/12/06
             excerpt: 洛阳博悦网络科技有限公司官方网站于2015年12月正式上线，欢迎大家的浏览。如果发现页面有错误、或者无法打开页面过慢，可以通过网站所留的联系方式告知我们。
+            description: 视频监控|SIP话机|APP开发|洛阳|网络电话|呼叫中心|郑州
         22:
             title: 网络电话分机比传统有那些优势？
             when: 2016/03/03
-            excerpt: 在对比两种电话交换系统之前，我们先简单介绍下两种电话系统是如何实现分机的。   
+            excerpt: 在对比两种电话交换系统之前，我们先简单介绍下两种电话系统是如何实现分机的。
+            description: 视频监控|SIP话机|APP开发|洛阳|网络电话|呼叫中心|郑州
 
 
     jobs:
